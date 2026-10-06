@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /template-01/
+Disallow: /template-02/
+Disallow: /template-04/
+Disallow: /shared-img/
